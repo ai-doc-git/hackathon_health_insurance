@@ -22,6 +22,7 @@ Submissions are evaluated on area under the ROC curve between the predicted prob
 Test data is further randomly divided into Public (40%) and Private (60%) data. Your initial responses will be checked and scored on the Public data. The final rankings would be based on your private score which will be published once the competition is over.
 
 **Leaderboard:**
+
 Public LB : Rank 352
 
 Private LB : Rank 370
